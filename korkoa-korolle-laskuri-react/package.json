@@ -1,0 +1,32 @@
+{
+	"name": "korkoa-korolle-laskuri-react",
+	"homepage": "https://rahavelho.fi/laskurit/",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@emotion/react": "^11.5.0",
+		"@emotion/styled": "^11.3.0",
+		"@mui/icons-material": "^5.1.0",
+		"@mui/material": "^5.0.4",
+		"highcharts": "^9.2.2",
+		"highcharts-react-official": "^3.1.0",
+		"next": "^12.0.7",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"react-icons": "^4.3.1",
+		"react-number-format": "^4.8.0",
+		"react-table": "^7.7.0",
+		"styled-components": "^5.3.1"
+	},
+	"devDependencies": {
+		"eslint": "8.6.0",
+		"eslint-config-next": "12.0.7"
+	},
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint",
+		"export": "next build && next export"
+	}
+}
