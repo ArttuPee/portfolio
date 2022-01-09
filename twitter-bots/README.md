@@ -13,3 +13,19 @@ Yhteensä näillä kahdella botilla on noin 5000 seuraajaa. PythonAnywhere palve
  - Twitter-API
  - PythonAnywhere
 
+---
+
+# Twitter-bots
+Scripts that automatically retweet and  like tweets that contain a specific keyword. They can also follow back users. 
+
+Two bots are actively on:  
+- [HappyDogTweetBot](https://twitter.com/HappyTweetBot1)
+- [CatTweetBot](https://twitter.com/CatTweetBot1)
+
+These bots have about 5000 followers combined. They are run using a free service called PythonAnywhere.
+
+## Technologies
+ - Python
+ - Tweepy
+ - Twitter-API
+ - PythonAnywhere
